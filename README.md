@@ -1,5 +1,5 @@
 # StatesCapitalQuizGamebeginners
-### State's Capital Quiz Game for beginners 
+## State's Capital Quiz Game for beginners 
 
 Generic Quiz Game using languages HTML/CSS/Js
 
