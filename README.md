@@ -1,9 +1,9 @@
 # StatesCapitalQuizGamebeginners
 ## State's Capital Quiz Game for beginners 
 
-Generic Quiz Game using languages (HTML/CSS/Js)
+Generic Quiz Game using languages (HTML/CSS/JavaScript)
 
-User have to choose one right answer from 4 options and total number of questions are 10.
+User have to choose 1 right answer from 4 options and total number of questions are 10.
 
 https://thelivingdead.github.io/StatesCapitalQuizGamebeginners/
 
